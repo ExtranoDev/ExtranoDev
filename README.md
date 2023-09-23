@@ -22,7 +22,7 @@
 ### :man_technologist: About Me
 I am a Software Engineer :alien: from Nigeria :nigeria:
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m currently learning Software Engineering @ ALX-Africa
+- ⚡ Fun fact: I’m a Software Engineering trained by ALX-Africa
 - 🌱 I’m have learnt C, JavaScript, PHP, Python, MySql, and currently still going hard on everything ALX has to offer
 - 🔭 I’m currently working on personal projects
 - 👯 I’m looking to collaborate on developing softwares and applications
