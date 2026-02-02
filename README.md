@@ -22,10 +22,9 @@
 ### :man_technologist: About Me
 I am a Software Engineer :alien: from Nigeria :nigeria:
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a Software Engineering trained by ALX-Africa
-- 🌱 I’m have learnt C, JavaScript, PHP, Python, MySql, and currently still going hard on everything ALX has to offer
-- 🔭 I’m currently working on personal projects
-- 👯 I’m looking to collaborate on developing softwares and applications
+- ⚡ Fun fact: I’m a Software Engineer (Backend Major)
+- 🌱 I’ve learnt C, JavaScript, PHP, Python, MySql and .NET.
+- 👯 I’m looking to collaborate on developing software solutions and applications
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oguntolajoshua/)
 
 ---
@@ -47,5 +46,5 @@ I am a Software Engineer :alien: from Nigeria :nigeria:
 ---
 ### :star2: My Stats :fire:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=extranodev&theme=nord&show_icons=true&include_all_commits=true&hide_border=true" alt="Onyeka's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extranodev&theme=nord&langs_count=8&layout=compact&hide_border=true" alt="Onyeka's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=extranodev&theme=nord&show_icons=true&include_all_commits=true&hide_border=true" alt="Joshua's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extranodev&theme=nord&langs_count=8&layout=compact&hide_border=true" alt="Onyeka's GitHub stats" /> |
 | ------------- | ------------- |
