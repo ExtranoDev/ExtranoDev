@@ -23,7 +23,7 @@
 I am a Software Engineer :alien: from Nigeria :nigeria:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a Software Engineer (Backend Major)
-- 🌱 I’ve learnt C, JavaScript, PHP, Python, MySql and .NET.
+- 🌱 I have developed software solutions in .NET, PHP, Python, MySql, & JavaScript.
 - 👯 I’m looking to collaborate on developing software solutions and applications
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oguntolajoshua/)
 
